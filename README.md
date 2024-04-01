@@ -10,7 +10,7 @@
 ## How to use AtaPP
 
 ## Meet Our team!
-1. [Kelvin Rizky Novsa]
+1. [Kelvin Rizky Novsa](link github)
 2. [M Hafiz Juliant](https://github.com/HafizJuliant)
-3. [Nailina Farah]
-4. [Raden Rian]
+3. [Nailina Farah](link github)
+4. [Raden Rian](link github)
