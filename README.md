@@ -1,2 +1,16 @@
-# p2-final-project-ftds-028-rmt-group-002
-p2-final-project-ftds-028-rmt-group-002 created by GitHub Classroom
+# AtaPP
+<p align="center">
+  <img src="MakanKuy!.png" width=300 align="center">
+</p>
+
+**AtaPP** adalah.....
+
+## Background
+
+## How to use AtaPP
+
+## Meet Our team!
+1. [Kelvin Rizky Novsa]
+2. [M Hafiz Juliant](https://github.com/HafizJuliant)
+3. [Nailina Farah]
+4. [Raden Rian]
