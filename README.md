@@ -1,6 +1,6 @@
 # AtaPP
 <p align="center">
-  <img src="MakanKuy!.png" width=300 align="center">
+  <img src="AtaPP.png" width=300 align="center">
 </p>
 
 **AtaPP** adalah.....
