@@ -14,4 +14,4 @@ Prediksi real estate value merupakan komponen penting bagi pembeli maupun penjua
 1. [Kelvin Rizky Novsa](https://github.com/Knovsa11)
 2. [M Hafiz Juliant](https://github.com/HafizJuliant)
 3. [Nailina Farah](https://github.com/Knovsa11)
-4. [Raden Rian](https://github.com/riangiri)
+4. [Raden Rian Girianom](https://github.com/riangiri)
