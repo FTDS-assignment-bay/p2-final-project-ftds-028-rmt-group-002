@@ -1,0 +1,20 @@
+URl SLide :
+
+https://docs.google.com/presentation/d/1Fi-4ZLKf8jg24_KOo3yzOUnFeDmxYwe2/edit#slide=id.p2
+
+URL HuggingFace :
+
+https://huggingface.co/spaces/Kelvin01/Final-Project-RMT-028-Group-2
+
+URL Model.h5 :
+
+https://drive.google.com/file/d/10YcVwrZ_qzwmBgcNi3_409BVKBSfdVly/view?usp=sharing
+
+URL pipeline.pkl :
+
+https://drive.google.com/file/d/1PYOVZ8i8WDVrQuiGyZArkod1Rjtemf0R/view?usp=sharing
+
+
+URL Tableau :
+
+https://public.tableau.com/app/profile/garea.a/viz/Dashboard-House-Pricing2/Dashboard4?publish=yes
